@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="live-project-link" target="_blank">
+    <a href="https://zentry25.netlify.app/" target="_blank">
       <img src="./public/project-banner.png" alt="Project Banner">
     </a>
   <br />
